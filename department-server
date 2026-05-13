@@ -4,4 +4,5 @@ server:
 spring:
   application:
     name: department-server
+message: Hello Department Server from Config Server
   
