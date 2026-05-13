@@ -3,3 +3,4 @@ server:
 spring:
   application:
     name: employee-service
+message: Hello Employee Service from Config Server
